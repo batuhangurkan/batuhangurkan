@@ -1,27 +1,37 @@
-# 💫 About Me:
-🔭 I’m currently looking flutterr & dart
+# Hi there, I'm Batuhan 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=batuhangurkan)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bthn_grkn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhanngurkan/) 
+I am a passionate developer with a keen interest in software development and technology. I love to explore new technologies and continuously improve my skills. Here's a little more about me:
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=batuhangurkan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=batuhangurkan&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhangurkan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
+- 🌱 I’m currently learning advanced algorithms and machine learning.
+- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+- 💬 Ask me about Python, JavaScript, and web development.
+- 📫 How to reach me: [batuhangurkan@example.com](mailto:batuhangurkan@example.com)
+- ⚡ Fun fact: I enjoy playing chess and hiking in my free time.
+
+## 🛠️ Languages and Tools
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks and Libraries:** React, Node.js, Django, Flask
+- **Tools and Platforms:** Git, Docker, Kubernetes, AWS, GitHub Actions
+
+## 📈 GitHub Stats
+![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhangurkan&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=batuhangurkan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=batuhangurkan&theme=radical)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhangurkan&layout=compact&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=batuhangurkan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhangurkan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/batuhangurkan)
 
----
-[![](https://visitcount.itsvg.in/api?id=batuhangurkan&icon=9&color=0)](https://visitcount.itsvg.in)
+## 💼 Projects
+- **[Project 1](https://github.com/batuhangurkan/project1):** A brief description of what this project is about.
+- **[Project 2](https://github.com/batuhangurkan/project2):** A brief description of what this project is about.
+- **[Project 3](https://github.com/batuhangurkan/project3):** A brief description of what this project is about.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Feel free to check out my repositories and connect with me on LinkedIn or Twitter!
