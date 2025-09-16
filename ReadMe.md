@@ -57,14 +57,6 @@
 
 ---
 
-## 🎨 Flutter Animations  
-<p align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="300px" />
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" />
-</p>
-
----
-
 <!-- Snake Animation Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
