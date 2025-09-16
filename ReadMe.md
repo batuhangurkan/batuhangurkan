@@ -1,27 +1,76 @@
-# 💫 About Me:
-🔭 I’m currently looking flutterr & dart
+<!-- 🌟 Modern Animated README for Batuhan Gürkan 🌟 -->
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bthn_grkn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhanngurkan/) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=batuhangurkan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=batuhangurkan&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhangurkan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=batuhangurkan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=batuhangurkan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&weight=600&size=26&duration=4000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Batuhan+Gürkan+👋;Flutter+%26+Dart+Developer+🚀;Always+Learning+New+Techs+💡;Building+Modern+Apps+With+Passion+🔥" alt="Typing Animation" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=batuhangurkan&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
+🔭 Currently focusing on **Flutter & Dart**  
+🌱 Learning & building modern **mobile + web apps**  
+⚡ Fun fact: I love combining design & technology to create amazing products  
+
+---
+
+## 🌐 Connect With Me:
+<p align="center">
+  <a href="https://instagram.com/bthn_grkn"><img src="https://skillicons.dev/icons?i=instagram" width="45px" /></a>
+  <a href="https://www.linkedin.com/in/batuhanngurkan/"><img src="https://skillicons.dev/icons?i=linkedin" width="45px" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,mysql,mssql,unreal" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio" />
+</p>
+
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=batuhangurkan&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batuhangurkan&theme=radical&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhangurkan&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=batuhangurkan&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=batuhangurkan&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 👀 Profile Views & Visitors
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=batuhangurkan&icon=2&color=12" />
+</p>
+
+---
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
